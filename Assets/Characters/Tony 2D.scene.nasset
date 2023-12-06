@@ -37,10 +37,19 @@
                     "name": "Camera"
                 },
                 {
-                    "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
-                    "rotationSpeed": 0.0,
-                    "positionSpeed": 500.0,
-                    "verticalStep": 0.0
+                    "typeGuid": "4955475A-D592-4DB6-B78F-54EE8F520C01",
+                    "followBounds": {
+                        "left": -2.0,
+                        "right": 2.0,
+                        "top": 2.0,
+                        "bottom": -2.0
+                    },
+                    "followSpeeds": {
+                        "left": 2.0,
+                        "right": 2.0,
+                        "up": 1.0,
+                        "down": 1.0
+                    }
                 }
             ]
         },
@@ -90,7 +99,8 @@
                         {
                             "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                             "mask": [
-                                "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                                "d6a09c51-8ccf-416e-8154-66f9404d2a44",
+                                "5A874881-8E50-4F54-9726-CDA4A757FD9B"
                             ]
                         }
                     ],
