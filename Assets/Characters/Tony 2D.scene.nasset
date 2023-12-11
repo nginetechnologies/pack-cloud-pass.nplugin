@@ -39,10 +39,10 @@
                 {
                     "typeGuid": "4955475A-D592-4DB6-B78F-54EE8F520C01",
                     "followBounds": {
-                        "left": -2.0,
-                        "right": 2.0,
-                        "top": 2.0,
-                        "bottom": -2.0
+                        "left": 0.33,
+                        "right": 0.33,
+                        "top": 0.5,
+                        "bottom": 0.0
                     },
                     "followSpeeds": {
                         "left": 2.0,
