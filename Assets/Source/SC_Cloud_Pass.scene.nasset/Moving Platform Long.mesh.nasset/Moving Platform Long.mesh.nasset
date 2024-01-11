@@ -1,1 +1,115 @@
-{"guid":"32cd6d61-3c8d-930d-da6e-af845c10dfc3","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"0b6e0eeb-cee1-60b0-75a3-4659c75e2831","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"c039eb34-50e2-9f53-48a8-1dd82c2e3534","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Moving Platform Long Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"009f9152-d4f7-3882-d6a3-de1a947c1d1d","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Moving Platform Long Yellow Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"22f1254f-b1a2-bda2-3d27-57a89a7b071e","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Moving Platform Long Yellow"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"81897605-b46b-edab-81f4-d30c82da578d","material_instance":"6ac1f732-cb85-bddb-0932-23abe86424e5"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"81897605-b46b-edab-81f4-d30c82da578d"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"d35ebb2d-7ffe-d62f-8609-0fcf9d3bac45","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Moving Platform Long Dark Yellow Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"2dfec3e3-4200-0355-fb8e-46f4f8a4d8d0","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Moving Platform Long Dark Yellow"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"c1dac1cc-11a9-e19a-94f8-a6174ccbebf4","material_instance":"93e881f8-5c00-242e-e35e-381ad5678232"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"c1dac1cc-11a9-e19a-94f8-a6174ccbebf4"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"32cd6d61-3c8d-930d-da6e-af845c10dfc3"},"dependencies":["6ac1f732-cb85-bddb-0932-23abe86424e5","81897605-b46b-edab-81f4-d30c82da578d","db5dc618-2cfe-44e9-a319-69c503d090e7","93e881f8-5c00-242e-e35e-381ad5678232","c1dac1cc-11a9-e19a-94f8-a6174ccbebf4"],"thumbnailGuid":"22c9143e-b900-6a36-801c-41ac222c0131"}
+{
+    "guid": "32cd6d61-3c8d-930d-da6e-af845c10dfc3",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0b6e0eeb-cee1-60b0-75a3-4659c75e2831",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "c039eb34-50e2-9f53-48a8-1dd82c2e3534",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Moving Platform Long Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "009f9152-d4f7-3882-d6a3-de1a947c1d1d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Moving Platform Long Yellow Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "22f1254f-b1a2-bda2-3d27-57a89a7b071e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Moving Platform Long Yellow"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "81897605-b46b-edab-81f4-d30c82da578d",
+                                "material_instance": "6ac1f732-cb85-bddb-0932-23abe86424e5"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "81897605-b46b-edab-81f4-d30c82da578d"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "d35ebb2d-7ffe-d62f-8609-0fcf9d3bac45",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Moving Platform Long Dark Yellow Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "2dfec3e3-4200-0355-fb8e-46f4f8a4d8d0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Moving Platform Long Dark Yellow"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c1dac1cc-11a9-e19a-94f8-a6174ccbebf4",
+                                "material_instance": "93e881f8-5c00-242e-e35e-381ad5678232"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "c1dac1cc-11a9-e19a-94f8-a6174ccbebf4"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "32cd6d61-3c8d-930d-da6e-af845c10dfc3"
+    },
+    "dependencies": [
+        "6ac1f732-cb85-bddb-0932-23abe86424e5",
+        "81897605-b46b-edab-81f4-d30c82da578d",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "93e881f8-5c00-242e-e35e-381ad5678232",
+        "c1dac1cc-11a9-e19a-94f8-a6174ccbebf4"
+    ],
+    "thumbnailGuid": "22c9143e-b900-6a36-801c-41ac222c0131"
+}

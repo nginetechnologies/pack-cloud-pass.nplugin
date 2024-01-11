@@ -1,1 +1,115 @@
-{"guid":"19fc6c62-9ea9-35e2-da4c-58a21541faf7","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"ea7ac1c8-ccea-621e-a40f-d634fa1d3c08","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"75f3c16e-4599-3653-0dc0-b78b981eff7b","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Ground Top Left Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"749008ee-3c53-a87e-f988-6c207604a194","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Ground Top Left Green Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"34bcfa55-d550-918e-a401-f8991db3e9eb","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Ground Top Left Green"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"f86abaeb-b75d-5e75-3ceb-163dd678e606","material_instance":"0b646217-ae7b-5e34-c5f1-6943128d0158"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"f86abaeb-b75d-5e75-3ceb-163dd678e606"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"71f01d47-0004-c353-0f3a-9dad7ff37ce1","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Ground Top Left Light Brown Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"85dcc473-5a25-f5a6-f395-ff479aa7196f","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Ground Top Left Light Brown"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"9a9a8ba4-25b3-86ec-1177-baca208cf1da","material_instance":"2b24cc18-2595-192b-a968-469373b07289"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"9a9a8ba4-25b3-86ec-1177-baca208cf1da"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"19fc6c62-9ea9-35e2-da4c-58a21541faf7"},"dependencies":["0b646217-ae7b-5e34-c5f1-6943128d0158","f86abaeb-b75d-5e75-3ceb-163dd678e606","db5dc618-2cfe-44e9-a319-69c503d090e7","2b24cc18-2595-192b-a968-469373b07289","9a9a8ba4-25b3-86ec-1177-baca208cf1da"],"thumbnailGuid":"22f389ef-fc80-6f5c-b791-680520e95a36"}
+{
+    "guid": "19fc6c62-9ea9-35e2-da4c-58a21541faf7",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "ea7ac1c8-ccea-621e-a40f-d634fa1d3c08",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "75f3c16e-4599-3653-0dc0-b78b981eff7b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Left Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "749008ee-3c53-a87e-f988-6c207604a194",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Ground Top Left Green Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "34bcfa55-d550-918e-a401-f8991db3e9eb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Ground Top Left Green"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f86abaeb-b75d-5e75-3ceb-163dd678e606",
+                                "material_instance": "0b646217-ae7b-5e34-c5f1-6943128d0158"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f86abaeb-b75d-5e75-3ceb-163dd678e606"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "71f01d47-0004-c353-0f3a-9dad7ff37ce1",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Ground Top Left Light Brown Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "85dcc473-5a25-f5a6-f395-ff479aa7196f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Ground Top Left Light Brown"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9a9a8ba4-25b3-86ec-1177-baca208cf1da",
+                                "material_instance": "2b24cc18-2595-192b-a968-469373b07289"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "9a9a8ba4-25b3-86ec-1177-baca208cf1da"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "19fc6c62-9ea9-35e2-da4c-58a21541faf7"
+    },
+    "dependencies": [
+        "0b646217-ae7b-5e34-c5f1-6943128d0158",
+        "f86abaeb-b75d-5e75-3ceb-163dd678e606",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "2b24cc18-2595-192b-a968-469373b07289",
+        "9a9a8ba4-25b3-86ec-1177-baca208cf1da"
+    ],
+    "thumbnailGuid": "22f389ef-fc80-6f5c-b791-680520e95a36"
+}
