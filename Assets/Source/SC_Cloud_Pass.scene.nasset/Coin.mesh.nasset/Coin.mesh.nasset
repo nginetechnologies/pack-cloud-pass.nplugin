@@ -15,10 +15,6 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Coin Physics Body"
-                },
-                {
-                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0
                 }
             ],
             "children": [

@@ -88,38 +88,6 @@
             ],
             "children": [
                 {
-                    "typeGuid": "4877948e-e1dd-4eae-ae0b-9deed6bba861",
-                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                        "position": [
-                            0
-                        ],
-                        "rotation": [
-                            0,
-                            -90,
-                            0
-                        ]
-                    },
-                    "4877948e-e1dd-4eae-ae0b-9deed6bba861": {
-                        "constrainedComponent": {
-                            "typeGuid": "1d21d79c-5708-46c9-8e57-ee9e86476b80",
-                            "instanceGuid": "CA80AFB0-6199-4478-AE80-255319EB9BEB"
-                        }
-                    },
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Plane Constraint"
-                        },
-                        {
-                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                        },
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "7124a4cb-2b58-4f1e-5b49-40e0da4f4ea5"
-                        }
-                    ]
-                },
-                {
                     "typeGuid": "1d21d79c-5708-46c9-8e57-ee9e86476b80",
                     "instanceGuid": "CA80AFB0-6199-4478-AE80-255319EB9BEB",
                     "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
@@ -152,6 +120,33 @@
                         }
                     ],
                     "children": [
+                        {
+                            "typeGuid": "4877948e-e1dd-4eae-ae0b-9deed6bba861",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0
+                                ]
+                            },
+                            "4877948e-e1dd-4eae-ae0b-9deed6bba861": {
+                                "constrainedComponent": {
+                                    "typeGuid": "1d21d79c-5708-46c9-8e57-ee9e86476b80",
+                                    "instanceGuid": "CA80AFB0-6199-4478-AE80-255319EB9BEB"
+                                }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Plane Constraint"
+                                },
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "7124a4cb-2b58-4f1e-5b49-40e0da4f4ea5"
+                                }
+                            ]
+                        },
                         {
                             "typeGuid": "a87d82b2-1cd5-4b81-8103-85248c61d585",
                             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {

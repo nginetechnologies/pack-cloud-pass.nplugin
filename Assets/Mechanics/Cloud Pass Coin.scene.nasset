@@ -1,0 +1,80 @@
+{
+    "guid": "5eb0fc80-b286-48f5-ac78-a894bf6c7d11",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8ada50df-66db-42d4-a555-8b065654bc07",
+    "dependencies": [
+        "061f56ce-dee1-0d5b-c008-91c1b59fd106",
+        "9896166c-538e-4d85-9963-da97cc39b584"
+    ],
+    "tags": [
+        "c642f003-618a-45dc-a031-b16f61473103"
+    ],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Cloud Pass Coin Collectible"
+        },
+        {
+            "typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
+            "rotation": [
+                0.0,
+                0.0,
+                180.0
+            ]
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
+            "instanceGuid": "f8b7d594-4261-4518-84a5-a725b57a5e45",
+            "e875b43b-d558-405c-a957-39c5d0f00ab2": {
+                "overriddenMass": 0.0
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "97f5d985-8b59-4864-82d8-0856b85b8c68": {
+                "scoreReward": 1,
+                "audio_asset": "9896166c-538e-4d85-9963-da97cc39b584"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Collectible Component"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "bb757ba1-71ba-4b5b-02b1-b911fd38e4f3",
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "061f56ce-dee1-0d5b-c008-91c1b59fd106"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Coin Mesh"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "5eb0fc80-b286-48f5-ac78-a894bf6c7d11"
+    },
+    "thumbnailGuid": "71bb24ae-36d4-c584-fd05-35ec9e2f0f44"
+}
