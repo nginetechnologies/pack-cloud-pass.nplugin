@@ -56,8 +56,8 @@
             ]
         },
         {
-            "typeGuid": "d4e4838b-b9dc-4788-8e33-7316ffef1693",
-            "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
+            "typeGuid": "1d6b8500-6e41-45ba-bee7-156cf8d92b3e",
+            "10bc2a29-2131-447a-8a66-43742c106bdf": {
                 "jumpHeight": 1.2,
                 "walkingSpeed": 2,
                 "runningSpeed": 4,
@@ -67,8 +67,7 @@
                     0,
                     1,
                     0
-                ],
-                "flags": 16
+                ]
             },
             "data_components": [
                 {
