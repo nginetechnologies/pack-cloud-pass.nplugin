@@ -58,7 +58,7 @@
         {
             "typeGuid": "1d6b8500-6e41-45ba-bee7-156cf8d92b3e",
             "10bc2a29-2131-447a-8a66-43742c106bdf": {
-                "jumpHeight": 1.2,
+                "jumpHeight": 2.0,
                 "walkingSpeed": 2,
                 "runningSpeed": 4,
                 "walkingTurnSpeed": 20,
@@ -159,7 +159,7 @@
                             },
                             "a87d82b2-1cd5-4b81-8103-85248c61d585": {
                                 "radius": 0.25,
-                                "half_height": 0.25
+                                "half_height": 0.10
                             },
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
